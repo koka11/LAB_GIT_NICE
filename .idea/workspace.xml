@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="2de6bd8e-52ba-4cc8-8618-407a6ec72fd2" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
     </list>
+=======
+    <list default="true" id="2de6bd8e-52ba-4cc8-8618-407a6ec72fd2" name="Default" comment="" />
+>>>>>>> styles
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,8 +29,13 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="45">
               <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+=======
+            <state relative-caret-position="15">
+              <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+>>>>>>> styles
             </state>
           </provider>
         </entry>
@@ -54,8 +63,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="75" />
-    <option name="y" value="44" />
+    <option name="x" value="108" />
+    <option name="y" value="250" />
     <option name="width" value="1281" />
     <option name="height" value="704" />
   </component>
@@ -108,12 +117,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525083917060</updated>
-      <workItem from="1525083921383" duration="935000" />
+      <workItem from="1525083921383" duration="1328000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="1727000" />
+=======
+    <option name="totallyTimeSpent" value="1328000" />
+>>>>>>> styles
   </component>
   <component name="ToolWindowManager">
     <frame x="108" y="250" width="1281" height="704" extended-state="0" />
@@ -163,6 +176,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+<<<<<<< HEAD
         </state>
       </provider>
     </entry>
@@ -177,6 +191,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+=======
+>>>>>>> styles
         </state>
       </provider>
     </entry>
